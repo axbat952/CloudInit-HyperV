@@ -8,7 +8,7 @@ https://github.com/schtritoff/hyperv-vm-provisioning
 
 Placer les fichiers dans un répertoire sur le serveur Hyper-V, puis exécuter le script.
 
-## Remote Usage (Exécution à distance)
+## Remote Usage (Exécution à distance via WinRM)
 
 - Start Connexion (Entrez les infos de connexion au serveur Hyper-V)
 ```powershell
