@@ -36,15 +36,6 @@
 		Force can shut down a running virtual machine. It cannot affect a virtual machine that is saved or paused.
 	.PARAMETER WhatIf
 		Performs normal WhatIf operations by displaying the change that would be made. However, the new BIOSGUID is automatically generated on each run. The one that WhatIf displays will not be used.
-	.NOTES
-		Version 1.2
-		July 25th, 2018
-		Author: Eric Siron
-
-		Version 1.2:
-		* Multiple non-impacting infrastructure improvements
-		* Fixed operating against remote systems
-		* Fixed "Force" behavior
 
 		Version 1.1: Fixed incorrect verbose outputs. No functionality changes.
 	.EXAMPLE

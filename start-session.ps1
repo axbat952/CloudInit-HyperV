@@ -1,4 +1,4 @@
-$hostName= "10.0.0.11"
+$hostName= "192.168.1.143"
 $winrmPort = "5986"
 
 # Get the credentials of the machine
