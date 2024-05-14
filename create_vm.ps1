@@ -1,0 +1,1 @@
+.\New-HyperVCloudImageVM.ps1 -VMProcessorCount 2 -VMMemoryStartupBytes 2GB -VHDSizeBytes 60GB -VMName "ubuntu-100" -ImageVersion "22.04" -VMGeneration 2 -VirtualSwitchName "NIC 2 - VM" -VMMachine_StoragePath "H:\hyperv" -GuestAdminUsername "axel" -GuestAdminPassword "axel"
